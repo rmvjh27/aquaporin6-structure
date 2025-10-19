@@ -13,5 +13,5 @@ The structure colored by the pLDDT value of each residue:
 E30, N82, P83, Q107, G110, E148, N196, F216, G223
 High AlphaMissense pathogenicity values of these residues indicate that any mutation that changes any of them into another amino acid residue is likely to be pathogenic. This means that these residues are likely to be important for the normal function of aquaporin-6.
 The residues are colored in hot pink and shown as sticks, while the rest of the protein is colored green.
-![highlight_res]
+![highlight_res](https://github.com/rmvjh27/aquaporin6-structure/blob/main/Aquaporin6%20monomer-1.png)
 
