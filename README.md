@@ -7,6 +7,6 @@ From UniProt entry Q13520 for the Human Aquaporin-6:
 ## Workflow
 ### 1. Retrieve the structure of the human aquaporin-6 monomer (AFDB ID Q13520) from AlphaFold DB
 The structure colored by the pLDDT value of each residue:
-![Q13520_structure]
+![Q13520_structure](Aquaporin6 monomer.png)
 2. Visualize the amino acid residues with high AlphaMissense pathogenicity
 
