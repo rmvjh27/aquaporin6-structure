@@ -5,6 +5,8 @@ From UniProt entry Q13520 for the Human Aquaporin-6:
 - Unlike classical aquaporins, AQP6 is an intracellular channel with selective anion permeability, particularly for nitrate, and exhibits very low water permeability.
 - It may also facilitate the transport of gases, such as CO2 and NH4+.
 ## Workflow
-1. Retrieve the structure of the human aquaporin-6 monomer (AFDB ID Q13520) from AlphaFold DB
+### 1. Retrieve the structure of the human aquaporin-6 monomer (AFDB ID Q13520) from AlphaFold DB
+The structure colored by the pLDDT value of each residue:
+![Q13520_structure]
 2. Visualize the amino acid residues with high AlphaMissense pathogenicity
 
