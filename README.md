@@ -33,3 +33,4 @@ The aquaporin-6 sequence obtained from UniProt was entered into [ColabFold](http
 Sequence coverage and pLDDT (predicted local distance difference test) of the generated tetramer:
 
 ![seq_coverage](https://github.com/rmvjh27/aquaporin6-structure/blob/main/HumanAquaporin6Tetramer_62f26_coverage.png)
+![plddt](https://github.com/rmvjh27/aquaporin6-structure/blob/main/HumanAquaporin6Tetramer_62f26_plddt.png)
