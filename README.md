@@ -16,4 +16,5 @@ High AlphaMissense pathogenicity values of these residues indicate that any muta
 The residues are colored in hot pink and shown as sticks, while the rest of the protein is colored green.
 
 ![highlight_res](https://github.com/rmvjh27/aquaporin6-structure/blob/main/Aquaporin6%20monomer-1.png)
+![zoomed_res](https://github.com/rmvjh27/aquaporin6-structure/blob/main/Aquaporin6%20monomer-2.png)
 
