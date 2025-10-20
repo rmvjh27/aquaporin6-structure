@@ -20,7 +20,7 @@ The structure colored with a blue-to-red spectrum, with blue denoting the N-term
 ![NtoCcolored](https://github.com/rmvjh27/aquaporin6-structure/blob/main/Aquaporin6%20monomer-3.png)
 
 ### 2. Visualize the amino acid residues with high AlphaMissense pathogenicity
-E30, N82, P83, Q107, G110, E148, N196, F216, G223
+The residues are as follows: E30, N82, P83, Q107, G110, E148, N196, F216, G223
 
 High AlphaMissense pathogenicity values of these residues indicate that any mutation that changes any of them into another amino acid residue is likely to be pathogenic. This means that these residues are likely to be important for the normal function of aquaporin-6.
 The residues are colored in hot pink and shown as sticks, while the rest of the protein is colored green.
@@ -28,3 +28,6 @@ The residues are colored in hot pink and shown as sticks, while the rest of the 
 ![highlight_res](https://github.com/rmvjh27/aquaporin6-structure/blob/main/Aquaporin6%20monomer-1.png)
 ![zoomed_res](https://github.com/rmvjh27/aquaporin6-structure/blob/main/Aquaporin6%20monomer-2.png)
 
+### 3. Predict the structure of the aquaporin-6 tetramer
+The aquaporin-6 sequence obtained from UniProt was entered into [ColabFold](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) four times, each instance of the sequence separated with a colon sign (:) to produce a tetramer.
+Sequence coverage and pLDDT (predicted local distance difference test) of the generated tetramer:
