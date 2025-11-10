@@ -34,3 +34,8 @@ Sequence coverage and pLDDT (predicted local distance difference test) of the ge
 
 <img src="https://github.com/rmvjh27/aquaporin6-structure/blob/main/HumanAquaporin6Tetramer_62f26_coverage.png" alt = "seq_coverage" width="696" height = "470">
 <img src="https://github.com/rmvjh27/aquaporin6-structure/blob/main/HumanAquaporin6Tetramer_62f26_plddt.png" alt="plddt" width="696" height="470">
+
+PAE (Predicted aligned error) of the top 5 AlphaFold-predicted models:
+
+
+<img src="https://github.com/rmvjh27/aquaporin6-structure/blob/main/HumanAquaporin6Tetramer_62f26_pae.png" alt="pae" width="696" height="470">
