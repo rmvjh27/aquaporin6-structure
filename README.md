@@ -37,6 +37,7 @@ Sequence coverage and pLDDT (predicted local distance difference test) of the ge
 
 - High sequence coverage on all transmembrane helices and loops, with low sequence coverage near the disordered N- and C-terminal regions of each monomer
 - Higher pLDDT (per-residue confidence) values on transmembrane helices and loops, lower confidence on monomer terminal regions
+
 PAE (Predicted aligned error) of the top 5 AlphaFold-predicted models:
 
 
