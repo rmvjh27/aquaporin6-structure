@@ -32,8 +32,8 @@ The residues are colored in hot pink and shown as sticks, while the rest of the 
 The aquaporin-6 sequence obtained from UniProt was entered into [ColabFold](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) four times, each instance of the sequence separated with a colon sign (:) to produce a tetramer.
 Sequence coverage and pLDDT (predicted local distance difference test) of the generated tetramer:
 
-<img src="https://github.com/rmvjh27/aquaporin6-structure/blob/main/HumanAquaporin6Tetramer_62f26_coverage.png" alt = "seq_coverage" width="696" height = "470">
-<img src="https://github.com/rmvjh27/aquaporin6-structure/blob/main/HumanAquaporin6Tetramer_62f26_plddt.png" alt="plddt" width="696" height="470">
+<img src="https://github.com/rmvjh27/aquaporin6-structure/blob/main/HumanAquaporin6Tetramer_62f26_coverage.png" alt = "seq_coverage" width="592" height = "400">
+<img src="https://github.com/rmvjh27/aquaporin6-structure/blob/main/HumanAquaporin6Tetramer_62f26_plddt.png" alt="plddt" width="592" height="400">
 
 PAE (Predicted aligned error) of the top 5 AlphaFold-predicted models:
 
