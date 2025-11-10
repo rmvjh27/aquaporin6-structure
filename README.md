@@ -35,17 +35,19 @@ Sequence coverage and pLDDT (predicted local distance difference test) of the ge
 <img src="https://github.com/rmvjh27/aquaporin6-structure/blob/main/HumanAquaporin6Tetramer_62f26_coverage.png" alt = "seq_coverage" width="592" height = "400">
 <img src="https://github.com/rmvjh27/aquaporin6-structure/blob/main/HumanAquaporin6Tetramer_62f26_plddt.png" alt="plddt" width="592" height="400">
 
+- High sequence coverage on all transmembrane helices and loops, with low sequence coverage near the disordered N- and C-terminal regions of each monomer
+- Higher pLDDT (per-residue confidence) values on transmembrane helices and loops, lower confidence on monomer terminal regions
 PAE (Predicted aligned error) of the top 5 AlphaFold-predicted models:
 
 
 ![pae](https://github.com/rmvjh27/aquaporin6-structure/blob/main/HumanAquaporin6Tetramer_62f26_pae.png) 
 
-Structure of the human aquaporin-6 tetramer:
+The PAE graph indicates that the predicted error is higher in the C-terminal regions of each monomer. Structure of the human aquaporin-6 tetramer:
 
 
 ![tetramer_struct](https://github.com/rmvjh27/aquaporin6-structure/blob/main/Aquaporin6%20tetramer-1.png)
 
-Superposition of the monomer structure from AlphaFold DB (red) and the monomer from the AlphaFold-predicted tetramer (green):
+Superposition of the monomer structure from AlphaFold DB (red) and the monomer from the AlphaFold-predicted tetramer (green), with an RMSD of 0.334 and the highest structural divergence located on the C-terminus:
 
 
 ![superpose](https://github.com/rmvjh27/aquaporin6-structure/blob/main/MonomerRed_TetramerGreen_superimpose.png)
