@@ -38,9 +38,14 @@ Sequence coverage and pLDDT (predicted local distance difference test) of the ge
 PAE (Predicted aligned error) of the top 5 AlphaFold-predicted models:
 
 
-![pae](https://github.com/rmvjh27/aquaporin6-structure/blob/main/HumanAquaporin6Tetramer_62f26_pae.png)
+![pae](https://github.com/rmvjh27/aquaporin6-structure/blob/main/HumanAquaporin6Tetramer_62f26_pae.png) 
 
 Structure of the human aquaporin-6 tetramer:
 
 
 ![tetramer_struct](https://github.com/rmvjh27/aquaporin6-structure/blob/main/Aquaporin6%20tetramer-1.png)
+
+Superposition of the monomer structure from AlphaFold DB (red) and the monomer from the AlphaFold-predicted tetramer (green):
+
+
+![superpose](https://github.com/rmvjh27/aquaporin6-structure/blob/main/MonomerRed_TetramerGreen_superimpose.png)
