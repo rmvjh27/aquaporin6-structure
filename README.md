@@ -52,3 +52,10 @@ Superposition of the monomer structure from AlphaFold DB (red) and the monomer f
 
 
 ![superpose](https://github.com/rmvjh27/aquaporin6-structure/blob/main/MonomerRed_TetramerGreen_superimpose.png)
+
+
+### 4. Visualize residues at the interface between aquaporin-6 monomers
+The likely important residues for interaction between aquaporin-6 monomers are shown here:
+
+
+![interface_monomers]()
